@@ -1,0 +1,10 @@
+{
+    "cipher" :     ["V","IX","II","IV","III"],
+    "control" :    ["IX","VI","I","VII","VIII"],
+    "index" :      ["II","I","V","IV","III"],    
+    "indicator" :  "table",
+    "controlPos" : "graph",
+    "indexPos" :   "02367",
+    "orientationControl": ["F", "R", "F", "R", "F"],
+    "orientationCipher": ["F", "R", "R", "R", "F"]
+}
